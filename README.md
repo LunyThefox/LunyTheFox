@@ -8,6 +8,7 @@
   <a href="https://github.com/elijahAlvs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LunyTheFox&show_icons=true&theme=pink"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunyTheFox&layout=compact&langs_count=7&theme=pink"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunyTheFox&layout=compact&langs_count=7&theme=pink"/>
 </div>
 
   ##
